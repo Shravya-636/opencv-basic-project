@@ -5,10 +5,10 @@ This is a simple OpenCV project that performs basic image processing tasks using
 - Converts the image to grayscale  
 - Displays the original and processed images
   
-**  Libraries used:**
--OpenCV (cv2) : For image processing and camera access
--NumPy (numpy) : For numerical operations and array handling
--Mediapipe (mediapipe) : For face detection and landmark detection
+**Libraries used:**
+OpenCV (cv2) – For image processing and camera access
+NumPy (numpy) – For numerical operations and array handling
+Mediapipe (mediapipe) – For face detection and landmark detection
 
 **How to run:**
 1.Clone this repository:
