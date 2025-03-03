@@ -13,13 +13,13 @@ This is a simple OpenCV project that performs basic image processing tasks using
 
 **How to run:**
 1.**Clone this repository:**
-'''bash
+```bash
   git clone https://github.com/Shravya-636/opencv-basic-project.git
-2.""Navigate to the project folder:**
-'''bash
+2.**Navigate to the project folder:**
+```bash
   cd opencv-basic-project
 3.**Run the Python script:**
-'''bash
+```bash
   python filename.py
   (Replace filename.py with the actual script name)
 
